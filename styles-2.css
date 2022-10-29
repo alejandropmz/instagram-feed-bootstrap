@@ -1,0 +1,29 @@
+img {
+    margin: 3px;
+
+}
+
+
+
+.container-fluid {
+    border: solid 1px rgb(228, 225, 225); 
+    width: 400px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.inferior-input {
+    display: flex;
+}
+
+.camera, .location {
+    margin-top: 4px;
+    border: solid 1px rgb(201, 193, 193);
+    border-radius: 4px;
+    width: 40px;
+}
+
+.camera {
+    margin-right: 2px;
+}
